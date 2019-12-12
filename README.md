@@ -1,6 +1,6 @@
 # Contact-Less-Heart-Rate-Calculator
 
-Monitoring of Heart Rate is almost a necessity in all the telemedicine fields. The cost of external sensors and the presuure appied by the sensors on the fragile skin of children and old age people invokes the demand for contacless monitoring of Heart Rate.
+Monitoring of Heart Rate is a necessity in almost all the telemedicine fields. The cost of external sensors and the presuure appied by the sensors on the fragile skin of children and old age people invokes the demand for contacless monitoring of Heart Rate. The same can also be used for future research in Stress Monitoring, Measuring attentiveness while a video tutorial.
 
 The software developed records the live video of a single person and gives a real time graph with the heart rate value in beats per minute. The values get automatically stored in a csv file for future use. The model also makes a person aware for high heart rate by giving a notification.
 
